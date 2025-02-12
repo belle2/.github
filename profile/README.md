@@ -9,5 +9,5 @@ Some useful links:
 * 🌏 [Belle II webpage](https://www.belle2.org)
 * 📃 [Belle II publications](https://www.belle2.org/research/physics/publications)
 * 🔊 [Belle II conference talks](https://www.belle2.org/research/talks/)
-* ✉️ B[elle II contacts](https://www.belle2.org/contact/)
+* ✉️ [Belle II contacts](https://www.belle2.org/contact/)
 * 🔬 [KEK webpage](https://www.kek.jp/en/)
